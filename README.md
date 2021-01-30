@@ -4,7 +4,7 @@ I'm a Front-end Developer Passionate about the best web development technologies
 
 - 🔭 I’m currently working at LUGGit.
 - ⚡ My favourite tools: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>ReactJS</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
-  [![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)](https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)
+- [![Linkedin Badge](https://img.shields.io/badge/-José%20Rubem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)](https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)
 
 <div align="center" >
 
