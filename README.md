@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
+I'm a Front-end Developer Passionate about the best web development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS.
 
-- 🔭 I’m currently working on MangoBits.
-- 🌱 I have experience with Typescript, Node.js, ReactJS, and React Native.
-- See my LinkedIn: [JOSÉ RUBEM](https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)
+- 🔭 I’m currently working at LUGGit.
+- ⚡ My favourite tools: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>ReactJS</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
+  [![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)](https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/)
 
 <div align="center" >
 
@@ -14,10 +14,6 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 </div>
 
 <!--
-**ARTHURPC03/ARTHURPC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
