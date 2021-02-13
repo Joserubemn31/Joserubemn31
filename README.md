@@ -1,5 +1,5 @@
 ## Hi there 👋🏻
-My name is José Rubem 
+My name is José Rubem 🇧🇷
 
 I'm a Front-end Developer Passionate about the best web development technologies. 
 
@@ -9,7 +9,6 @@ I'm passionate about learning and solving problems. Always open to new projects 
 [![JOSÉ RUBEM's github stats](https://github-readme-stats.vercel.app/api?username=Joserubemn31&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 ######
-- 📍From Brazil living in Portugal.
 - 🔭 Front-end developer at LUGGit.
 - ⚡ My favourite tools: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>ReactJS</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
