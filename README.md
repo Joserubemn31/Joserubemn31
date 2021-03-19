@@ -20,6 +20,7 @@ I'm passionate about learning and solving problems. Always open to new projects 
   </a>
 
 </br>
+
 ### Languages and Tools:
 
 ![REACTJS](https://img.shields.io/badge/ReactJS-007ACC?style=for-the-badge&logo=react&logoColor=wh)
