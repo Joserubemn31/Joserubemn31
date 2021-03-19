@@ -12,16 +12,14 @@ I'm passionate about learning and solving problems. Always open to new projects 
 - 🔭 Front-end developer at LUGGit.
 - 📌 Aveiro, Portugal
 - 🎉 20 years old
-</br>
 
 ### Social Media:
 
-  <a href="https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/" alt="Linkedin" _target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </br>
-
 ### Languages and Tools:
 
 ![REACTJS](https://img.shields.io/badge/ReactJS-007ACC?style=for-the-badge&logo=react&logoColor=wh)
@@ -32,9 +30,6 @@ I'm passionate about learning and solving problems. Always open to new projects 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-</br>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserubemn31&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
