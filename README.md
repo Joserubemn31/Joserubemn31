@@ -15,11 +15,11 @@ I'm passionate about learning and solving problems. Always open to new projects 
 
 ### Social Media:
 
-  <a href="https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/" alt="Linkedin" _target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-rubem-314429168/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:joserubemn31@gmail.com" alt="Gmail" _target="_blank">
+  <a href="mailto:joserubemn31@gmail.com" alt="Gmail" target="_blank">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
