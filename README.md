@@ -6,7 +6,7 @@ I'm a Front-end Developer Passionate about the best web development technologies
 I'm passionate about learning and solving problems. Always open to new projects and ready to face changes.
 
 
-[![JOSÉ RUBEM's github stats](https://github-readme-stats.vercel.app/api?username=Joserubemn31&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![JOSÉ RUBEM's github stats](https://github-readme-stats.vercel.app/api?username=joserubemneto&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 ######
 - 🔭 Front-end developer at LUGGit.
@@ -46,7 +46,7 @@ I'm passionate about learning and solving problems. Always open to new projects 
 ![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserubemn31&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserubemneto&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
