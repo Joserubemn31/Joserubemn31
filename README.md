@@ -9,7 +9,7 @@ I'm passionate about learning and solving problems. Always open to new projects 
 [![JOSÉ RUBEM's github stats](https://github-readme-stats.vercel.app/api?username=joserubemneto&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 ######
-- 🔭 Front-end developer at LUGGit.
+- 🔭 Front-end developer at Jumia Porto Tech Center.
 - 📌 Aveiro, Portugal
 - 🎉 20 years old
 
